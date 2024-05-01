@@ -23,10 +23,10 @@ A character Mesh
 A facemask mesh wraping the character mesh (WRAP)
 A facemask mesh recipient (TARGET)
 
-有疑问可以联系
-微信：BeecherTi
-Email：Beecher@gsus.cc
+有疑问可以联系</br>
+微信：BeecherTi</br>
+Email：Beecher@gsus.cc</br>
 
-For inquiries, please contact:
-WeChat: BeecherTi
-Email: Beecher@gsus.cc
+For inquiries, please contact:</br>
+WeChat: BeecherTi</br>
+Email: Beecher@gsus.cc</br>
