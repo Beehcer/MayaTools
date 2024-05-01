@@ -1,3 +1,4 @@
+
 为Maya用户设计的脚本插件,主要功能：
 不同拓扑结构模型，快速批量传递Blandshape。如图所示：
 
@@ -22,3 +23,10 @@ A character Mesh
 A facemask mesh wraping the character mesh (WRAP)
 A facemask mesh recipient (TARGET)
 
+有疑问可以联系
+微信：BeecherTi
+Email：Beecher@gsus.cc
+
+For inquiries, please contact:
+WeChat: BeecherTi
+Email: Beecher@gsus.cc
