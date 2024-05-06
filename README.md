@@ -44,7 +44,7 @@
 
     *   3、手动清除历史，**本脚本历史可以清除**。*（默认工具 Transfer Attributes 的历史是无法被删除的）*
 
-    *   ![](README_md_files/33bb5950-0b75-11ef-aea9-1529290786aa.jpeg?v=1\&type=image)&#x20;
+    *   ![33bb5950-0b75-11ef-aea9-1529290786aa](https://github.com/Beehcer/MayaTools/assets/52235943/e41e17c2-fd99-47a1-b7d3-584e3e3cea98)
 
         此图中工具传递的历史无法被删除。
 
@@ -60,7 +60,7 @@
 
     *   3.Manually clear history; this script’s history can be cleared. (By default, the history from the Transfer Attributes tool cannot be deleted.)
 
-    *   ![](README_md_files/33bb5950-0b75-11ef-aea9-1529290786aa.jpeg?v=1\&type=image)
+    *   ![33bb5950-0b75-11ef-aea9-1529290786aa](https://github.com/Beehcer/MayaTools/assets/52235943/e41e17c2-fd99-47a1-b7d3-584e3e3cea98)
 
         The history transferred by this tool in the image cannot be deleted.
 
@@ -68,10 +68,10 @@
 
 
 
-有疑问可以联系
-微信：BeecherTi
-Email：<Beecher@gsus.cc>
+有疑问可以联系</br>
+微信：BeecherTi</br>
+Email：<Beecher@gsus.cc></br>
 
-For inquiries, please contact:
-WeChat: BeecherTi
-Email: <Beecher@gsus.cc>
+For inquiries, please contact:</br>
+WeChat: BeecherTi</br>
+Email: <Beecher@gsus.cc></br>
