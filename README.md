@@ -28,7 +28,9 @@
 
     *   3.A facemask mesh recipient (TARGET).
 
-
+</br>
+========================================================================
+</br>
 
 #### Poly Rigged UV Shift.py
 
@@ -64,9 +66,10 @@
 
         The history transferred by this tool in the image cannot be deleted.
 
-
-
-
+</br>
+</br>
+</br>
+</br>
 
 有疑问可以联系</br>
 微信：BeecherTi</br>
