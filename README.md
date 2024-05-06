@@ -1,6 +1,7 @@
 #### MAYA Quick BlandShape Duplicator.py
-
 #### MAYA 快速批量传递Blandshape.py
+
+</br>
 
 *   为Maya用户设计的脚本插件,主要功能： 不同拓扑结构模型，快速批量传递Blandshape。如图所示：
 
@@ -33,8 +34,9 @@
 </br>
 
 #### Poly Rigged UV Shift.py
-
 #### MAYA 绑定模型UV传递工具.py
+
+</br>
 
 *   绑定模型UV传递脚本 优先空间坐标，后拓扑结构。
 
