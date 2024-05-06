@@ -48,7 +48,7 @@
 
     *   ![33bb5950-0b75-11ef-aea9-1529290786aa](https://github.com/Beehcer/MayaTools/assets/52235943/e41e17c2-fd99-47a1-b7d3-584e3e3cea98)
 
-        此图中工具传递的历史无法被删除。
+        自带的这个工具传递的历史无法被删除。
 
 
 
@@ -64,7 +64,7 @@
 
     *   ![33bb5950-0b75-11ef-aea9-1529290786aa](https://github.com/Beehcer/MayaTools/assets/52235943/e41e17c2-fd99-47a1-b7d3-584e3e3cea98)
 
-        The history transferred by this tool in the image cannot be deleted.
+        The history transferred by this built-in tool cannot be deleted.
 
 </br>
 </br>
